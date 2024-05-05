@@ -9,6 +9,8 @@ alias ll='ls -alFh --color=auto'
 alias wh='which'
 alias pwd='pwd; pwd | pbcopy'
 
+alias lg='lazygit'
+
 
 alias vi='nvim'
 alias vim='nvim'
