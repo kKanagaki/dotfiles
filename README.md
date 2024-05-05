@@ -12,4 +12,4 @@
 2. `install.sh`を実行
 
 ## 補足
-- neovimはhttps://github.com/kKanagaki/kickstart.nvimで管理し、`install.sh`でcloneされる
+- neovimはhttps://github.com/kKanagaki/kickstart.nvim で管理し、`install.sh`でcloneされる
