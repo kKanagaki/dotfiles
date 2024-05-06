@@ -10,6 +10,9 @@ alias wh='which'
 alias pwd='pwd; pwd | pbcopy'
 
 alias lg='lazygit'
+alias gs='git status'
+alias gba='git branch -a'
+alias grv='git remote -v'
 
 
 alias vi='nvim'
