@@ -19,7 +19,7 @@ alias vi='nvim'
 alias vim='nvim'
 
 # http://blog.amedama.jp/entry/2015/09/15/194322 -> brew install findutils
-alias xargs="gxargs"
+#alias xargs="gxargs"
 alias sed='gsed'
 
 alias sail='[ -f sail ] && bash sail || bash vendor/bin/sail'
@@ -29,5 +29,7 @@ if type trash > /dev/null 2>&1; then
     alias rm='trash -F'
 fi
 
+
+alias ma="make -f $ATCODER_DIR/Makefile"
 
 
