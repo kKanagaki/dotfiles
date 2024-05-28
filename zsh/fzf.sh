@@ -36,5 +36,5 @@ fzf-z-search() {
 }
 
 zle -N fzf-z-search
-bindkey '^z' fzf-z-search
+bindkey '^e' fzf-z-search
 
